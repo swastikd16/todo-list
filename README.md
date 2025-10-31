@@ -20,4 +20,4 @@ Manage your tasks, track progress, and you also get dark mode!!
 
 ## live demo link -
 
-Check it out here: [https://your-vercel-url.vercel.app](https://your-vercel-url.vercel.app)
+Check it out here: [https://todo-list-ashy-nu-37.vercel.app/](https://todo-list-ashy-nu-37.vercel.app/)
